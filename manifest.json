@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/typingcertification/bpk-updates/releases/download/v1.0.0/TradingBot",
-  "sha256": "",
-  "notes": "Initial release",
-  "published": "2026-06-04T00:48:50Z"
+  "version": "1.1.6",
+  "notes": "Automatic update to v1.1.6.",
+  "url_macos_arm": "https://github.com/typingcertification/bpk-updates/releases/download/v1.1.6/TradingBot-macos-arm",
+  "sha256_macos_arm": "93c7e3da374e4cfb807772619f07a8655f3c07577b613b1bb6ba4fce92097ecf",
+  "url_windows": "https://github.com/typingcertification/bpk-updates/releases/download/v1.1.6/TradingBot-windows.exe",
+  "sha256_windows": "966f9758c6af519e1a7ef5ba9827884acd7a402fd2060d84acc6c346e21057e9"
 }
