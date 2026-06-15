@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "notes": "Automatic update to v1.2.2.",
-  "url_macos_arm": "https://github.com/typingcertification/bpk-updates/releases/download/v1.2.2/TradingBot-macos-arm",
-  "sha256_macos_arm": "1cec21529a4abb36f93d280962098e2f3364ea6afe384bbb45d7e25f5133e2e3",
-  "url_windows": "https://github.com/typingcertification/bpk-updates/releases/download/v1.2.2/TradingBot-windows.exe",
-  "sha256_windows": "7cd0d65cb18dfd4ed701e88e5e099bcef45fa308c0d28d08603f2397dac5fd0a"
+  "version": "1.2.3",
+  "notes": "Automatic update to v1.2.3.",
+  "url_macos_arm": "https://github.com/typingcertification/bpk-updates/releases/download/v1.2.3/TradingBot-macos-arm",
+  "sha256_macos_arm": "bd8bff2b72ea80a69f972a47aa61053f63502face4f6a1fe42377f3bd8b0345a",
+  "url_windows": "https://github.com/typingcertification/bpk-updates/releases/download/v1.2.3/TradingBot-windows.exe",
+  "sha256_windows": "f41cba09bcc76fe0959e7050baae904b07840fd978a15502ea8da6bd76aef476"
 }
