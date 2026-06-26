@@ -1,8 +1,8 @@
 {
-  "version": "1.3.18",
-  "notes": "Automatic update to v1.3.18.",
-  "url_macos_arm": "https://github.com/typingcertification/bpk-updates/releases/download/v1.3.18/TradingBot-macos-arm",
+  "version": "1.3.19",
+  "notes": "Automatic update to v1.3.19.",
+  "url_macos_arm": "https://github.com/typingcertification/bpk-updates/releases/download/v1.3.19/TradingBot-macos-arm",
   "sha256_macos_arm": "",
-  "url_windows": "https://github.com/typingcertification/bpk-updates/releases/download/v1.3.18/TradingBot-windows.exe",
+  "url_windows": "https://github.com/typingcertification/bpk-updates/releases/download/v1.3.19/TradingBot-windows.exe",
   "sha256_windows": ""
 }
